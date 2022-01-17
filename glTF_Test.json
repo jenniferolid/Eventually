@@ -1,0 +1,11 @@
+{
+	"glTF_Test": {
+		"version": 1,
+		"id": "glTF_Test",
+		"name": "1",
+		"kind": "Puppeteer",
+		"mood": null,
+		"postPlaybackMood": null,
+		"duration": 37.23333333
+	}
+}
